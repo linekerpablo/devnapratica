@@ -1,0 +1,6 @@
+@DevNaPraticaApi_HostAddress = http://localhost:5195
+
+GET {{DevNaPraticaApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
